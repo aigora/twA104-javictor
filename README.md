@@ -1,11 +1,11 @@
-# Título del trabajo
+# SEMÁFOROS
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Semáforos de tres leds para coches y dos para peatones con tres botones integrados.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Victor Aragones
+Javier Fuentes
 
 ## Objetivos del trabajo
-
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Aprender la combinación eficiente de visual y arduino, junto al aprendizaje basico de inputs y outputs básicos para la programación con ARDUINO.
